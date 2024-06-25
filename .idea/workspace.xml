@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9090b583-bfe9-44ff-8cce-a3c60eb5e2da" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/challenge/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/challenge/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/challenge/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/challenge/Dev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/challenge/Mentoria.java" afterDir="false" />
+    <list default="true" id="9090b583-bfe9-44ff-8cce-a3c60eb5e2da" name="Changes" comment="First commit&#10;Esqueleto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/challenge/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/challenge/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719262551919</updated>
       <workItem from="1719262553043" duration="1651000" />
-      <workItem from="1719332236512" duration="4495000" />
+      <workItem from="1719332236512" duration="6147000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -96,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719262682394</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit&#10;Esqueleto">
+      <option name="closed" value="true" />
+      <created>1719339620609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719339620609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +108,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="First commit&#10;Esqueleto" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit&#10;Esqueleto" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
